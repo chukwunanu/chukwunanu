@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chukwunanu
 - 👀 I’m interested in creating innovative and value driven softwares.
-- 🌱 I’m currently learning php, Laravel, etc
+- 🌱 I’m a Laravel developer, etc
 - 💞️ I’m looking to collaborate on any php or Laravel projects
 - 📫 How to reach me via email uughasoro@gmail.com
 - 😄 Pronouns: ...
